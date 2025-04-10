@@ -5,7 +5,7 @@ setup(
     version="0.1.0",                                # Versión inicial
     packages=find_packages(),                       # Paquetes a incluir
     description="Un paquete pip simple de saludo",  # Breve descripción
-    author="agudelo.david",                         # nombre
+    author="Agudelo David",                         # nombre
     author_email="agudelo.david@hotmail.com",       # correo electrónico
     url="https://github.com/dagudelob/TercerRepo",  # URL del proyecto
 )
